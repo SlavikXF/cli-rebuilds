@@ -1,0 +1,1 @@
+Usage: Upload the cli folder to your XenForo root, then run CLIRebuilds.php from the command line. (Note, when running "All" at the Search Step the rebuilder will stop and await user input).
